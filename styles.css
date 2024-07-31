@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+    margin: 60px;
+    font-style: monospace;
+    font-family: courier, serif;
+    background-color: #EFE4B0;
+}
+
+.highlight {
+    color: #EFE4B0;
+    background-color: rgb(75, 40, 215);
+  }
